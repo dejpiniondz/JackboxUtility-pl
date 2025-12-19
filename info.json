@@ -1,7 +1,7 @@
 {
     "id": "jackbox-pl",
-    "name": "Jackbox Utility",
-    "description": "The community server for Jackbox Games in English!",
+    "name": "Jackbox Utility PL",
+    "description": "Server społecznościowy dla gier Jackbox w języku polskim!",
     "image": "https://raw.githubusercontent.com/Frytkownica/JackboxUtility-Server-pl/main/assets/news_images/logo.png",
     "urls": [
         {

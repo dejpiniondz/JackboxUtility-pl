@@ -4,19 +4,7 @@
     "children": [
       {
         "type": "text",
-        "text": ""
-      },
-      {
-        "type": "text",
-        "text": "Użytkownicy Microsoft Store:"
-      },
-      {
-        "type": "text",
-        "text": "Te wersje muszą być dodane ręcznie z sekcji \"Settings\"."
-      },
-      {
-        "type": "text",
-        "text": "Musisz wybrać folder \"Content\" w folderze każdej gry."
+        "text": "Work in progress!"
       }
     ]
   },

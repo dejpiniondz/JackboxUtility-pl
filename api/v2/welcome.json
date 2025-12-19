@@ -1,26 +1,25 @@
 {
-    "news":[
+    "news": [
         {
-            "id":"2023-02-22 19:02:14",
-            "title":"Jackbox Utility",
-            "smallDescription":"Welcome to Jackbox Utility!",
-            "content":"# This is the new version of Jackbox Utility!\n\nIn this new version, the English language is added to the application.\n\nEnjoy!",
-            "image":"news_images/jackboxutility.png"
+            "id": "2025-12-19 12:00:00",
+            "title": "Próbujemy tłumaczyć na Polski!",
+            "smallDescription": "Legendarna gra quizowa powraca po polsku!",
+            "content": "# Gra, w której kultura wysoka spotyka się z popkulturą - To **You Don't Know Jack**!\n\nZespół tłumaczy pracuje od 2021 roku nad przywróceniem tego klasycznego quizu. W czwartek, 31 sierpnia 2023 roku nadszedł ten moment: mnóstwo nowych pytań, żartów i absurdów. Bądźcie na bieżąco i śledźcie nas w mediach społecznościowych, aby otrzymywać kolejne aktualizacje!\n\n<https://twitter.com/jackboxde>",
+            "image": "news_images/ydkj.jpg"
         },
         {
-            "id":"2023-02-22 19:02:14",
-            "title":"Join our Discord server!",
-            "smallDescription":"Join our Discord community server!",
-            "content":"# You need help? Wanna play some games?\n\nJoin our Discord server! You can also suggest features for the Utility.\n\n<https://discord.gg/CBTaTGx2zy>",
-            "image":"news_images/discord.png"
+            "id": "2023-02-21 12:00:00",
+            "title": "Jackbox Utility",
+            "smallDescription": "Witaj w nowej wersji Jackbox Utility!",
+            "content": "# Oto nowe Jackbox Utility\n\nW tej nowej wersji będziesz mógł uruchamiać wszystkie swoje ulubione gry z jednego miejsca!\n\nChcesz jeszcze szybciej uruchamiać gry? Wypróbuj **Tryb szybkiego startu** i uruchamiaj gry bezpośrednio!",
+            "image": "news_images/jbu.jpg"
         },
         {
-            "id":"2023-02-22 19:02:14",
-            "title":"Game codes on EU/Canada!",
-            "smallDescription":"You can now buy game codes in EU and Canada!",
-            "content":"# If you're looking to buy the Jackbox games in these locations, you're in luck!\n\nWhen buying game codes in jackboxgames.com, you now get exclusive discounts in Europe and Canada, as well as in the United States.\n\nHappy buying!",
-            "image":"news_images/banner.png"
+            "id": "2023-02-18 12:00:00",
+            "title": "Dołącz do społeczności!",
+            "smallDescription": "Połącz się z innymi członkami społeczności i uzyskaj pomoc we wszystkich pytaniach dotyczących Jackbox",
+            "content": "# Potrzebujesz pomocy? Szukasz współgraczy?\n\nDołącz do naszego serwera Discord, aby zadawać pytania i łączyć się z innymi członkami społeczności!\n\n<https://discord.gg/vGcu9HWde4>",
+            "image": "news_images/discord.jpg"
         }
     ]
-
 }

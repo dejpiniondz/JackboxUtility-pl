@@ -1,8 +1,18 @@
 {
-    "MAIN":{
-        "HIDE_PATCHER": true
+    "MAIN": {
+        "HIDE_PATCHER": false
     },
     "LAUNCHER": {
-        "HIDE_DUBBED": true
+        "HIDE_DUBBED_BY_COMMUNITY": true
+    },
+    "DOWNLOAD": {
+        "SHOW_THANK_YOU": true,
+        "THANK_YOU_URL": "https://google.translate.pl/"
+    },
+    "SERVER_INFORMATION": {
+        "SHOW_PATREONS_SUBSCRIBERS": true,
+        "PATREONS_SUBSCRIBERS": [
+            "Twoja Stara"
+        ]
     }
 }

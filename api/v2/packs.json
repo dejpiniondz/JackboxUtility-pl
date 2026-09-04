@@ -4,40 +4,41 @@
             "id": "talking",
             "name": "Rozmowa",
             "icon": "action_center",
-            "description": "Gracze muszą w tych grach ze sobą rozmawiać."
+            "description": "Gry wymagające lub czerpiące korzyść z głośnej dyskusji między graczami."
         },
         {
             "id": "drawing",
             "name": "Rysowanie",
             "icon": "edit",
-            "description": "Gracze muszą w tych grach rysować."
+            "description": "W tych grach musisz rysować."
         },
         {
             "id": "deduction",
-            "name": "Dedukcja",
+            "name": "Strategia",
             "icon": "comment_urgent",
-            "description": "Gracze muszą w tych grach ze sobą współpracować i ustalać strategię."
+            "description": "W tych grach musisz wykazać się sprytem i strategicznym myśleniem."
         },
         {
             "id": "knowledge",
             "name": "Wiedza ogólna",
             "icon": "knowledge_management_app",
-            "description": "Gracze muszą w tych grach wykazać się wiedzą."
+            "description": "W tych grach sprawdzisz swoją wiedzę."
         },
         {
             "id": "writing",
             "name": "Pisanie",
             "icon": "text_align_top",
-            "description": "Gracze muszą w tych grach pisać."
+            "description": "W tych grach musisz dużo pisać."
         }
     ],
     "patchsCategories": [
         {
             "id": "polish_patchs",
-            "name": "Polska lokalizacja",
-            "smallDescription": "Przetłumacz gry na polski!",
+            "name": "Polskie tłumaczenia",
+            "smallDescription": "Tłumaczenia gier na język polski!",
             "patchs": [
-                "jpp1_pl"
+                "jpp1_pl",
+                "jpp2_pl"
             ]
         }
     ],
@@ -45,7 +46,7 @@
         {
             "id": "jpp1",
             "name": "The Jackbox Party Pack",
-            "description": "Data premiery: 2014",
+            "description": "Data wydania: 2014",
             "launchers_id": {
                 "steam": "331670",
                 "epic": "Feverfew"
@@ -93,15 +94,15 @@
                         "family_friendly": "NOT_FAMILY_FRIENDLY",
                         "audience": false,
                         "stream_friendly": "NOT_PLAYABLE",
-                        "stream_friendly_description": "In the final round, the first player to see the correct answer on-screen and press the button will win points. Because of this, the player who is streaming their screen will have an unfair advantage over the other players.",
+                        "stream_friendly_description": "W rundzie finałowej punkty zdobędzie ten gracz, który jako pierwszy dostrzeże prawidłową odpowiedź na ekranie i naciśnie przycisk. Z tego powodu gracz transmitujący swój ekran będzie miał nieuczciwą przewagę nad pozostałymi graczami.",
                         "moderation": "FULL_MODERATION",
-                        "moderation_description": "This game doesn't require moderation.",
+                        "moderation_description": "Ta gra nie wymaga moderacji.",
                         "subtitles": false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "The irreverent quiz show party game",
-                        "small_description": "The irreverent quiz show party game",
-                        "description": "The smart-ass trivia show that started it all! Hundreds of all-new twisted trivia questions and everyone’s favorite host, Cookie Masterson!",
+                        "tagline": "Niekonwencjonalny teleturniej",
+                        "small_description": "Teleturniej dla mądrali, od którego wszystko się zaczęło! Setki zupełnie nowych, pokręconych zagadek i uwielbiany przez wszystkich prowadzący, Cookie Masterson!",
+                        "description": "Wybierzcie spośród 50 nowych odcinków z Cookie'em w roli prowadzącego. W każdym odcinku gracze rywalizują o pieniądze, odpowiadając na zawiłe pytania, i mogąc „wciągać” innych, zmuszając ich do odpowiadania na najtrudniejsze pytania. Pomyłka oznacza utratę pieniędzy... chyba, że znajdziecie upragnioną „Nieprawidłową odpowiedź gry”.\n\nPo drodze czekają na Was nowe rodzaje pytań, takie jak „Kto tu jest manekinem?” lub „Odgadnij prawidłową kolejność dostępnych opcji”. A czy wspomnieliśmy już o „Kangur, orzeszki ziemne, Albert Einstein czy uran”?" ,
                         "images": [
                             "game_images/YDKJ2015/ydkj2015.mp4",
                             "game_images/YDKJ2015/ydkj2015_1.webp",
@@ -143,13 +144,13 @@
                         "audience": false,
                         "stream_friendly": "PLAYABLE",
                         "moderation": "NO_MODERATION",
-                        "moderation_description": "Gracze rysują swoje hasła.",
+                        "moderation_description": "Gracze opisują i rysują swoje hasła.",
                         "subtitles": false,
                         "type": "VERSUS",
                         "translation": "POLISH",
-                        "tagline": "Bazgrol, ale styolwo!",
-                        "small_description": "Bazgrol ale styolwo!",
-                        "description": "Gra w której rysujesz hasła innych graczy. Nie umiesz rysować? Nawet lepiej!",
+                        "tagline": "Bazgrolenie, ale ze stylem!",
+                        "small_description": "Gra o rysowaniu, która innym grom o rysowaniu dorysowuje śmieszne wąsy. Nie umiesz rysować? Nie ma sprawy, tak jest nawet zabawniej!",
+                        "description": "W Drawful każdy gracz otrzymuje dziwne i niepowtarzalne zadanie, które musi narysować na swoim urządzeniu. Gdy każdy „artysta” zaprezentuje swoją pracę, pozostali gracze anonimowo proponują nazwę, która mogłaby pasować do tego dziwacznego rysunku.\n\nTwoim zadaniem jest odnalezienie prawdziwego tytułu spośród wszystkich propozycji, a jednocześnie skłonienie innych do wybrania Twojej wymyślonej odpowiedzi.",
                         "images": [
                             "game_images/Drawful/drawful.mp4",
                             "game_images/Drawful/drawful_1.webp",
@@ -190,13 +191,13 @@
                         "audience": false,
                         "stream_friendly": "PLAYABLE",
                         "moderation": "NO_MODERATION",
-                        "moderation_description": "Players can submit text.",
+                        "moderation_description": "Gracze mogą wprowadzać tekst.",
                         "subtitles": false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "PASS IT AROUND",
-                        "small_description": "PASS IT AROUND",
-                        "description": "Keep the words rolling all night! Just finish the word coming toward you, like “Mail___.” Mail enhancement, you say? You nailed it.",
+                        "tagline": "PODAJ DALEJ",
+                        "small_description": "Nie pozwólcie, by słowa utkwiły Wam w gardłach! Rozwiń słowo, które do Ciebie dotarło, na przykład: „Prosta___”. Prosta sprawa, powiadasz? To się nazywa strzał w dziesiątkę.",
+                        "description": "Jeden z graczy otrzymuje proste słowo, na przykład „rzeczywiste” lub „życie”. Następnie kolejny gracz wpisuje swoje dowcipne słowo lub frazę, która ma stanowić jej kontynuację. Gracze głosują, aby zdecydować, czy zachować dodane słowo, czy je odrzucić, po czym „ziemniak” przechodzi do kolejnego gracza. „Celem” gry jest stworzenie wraz z przyjaciółmi jak najdziwniejszej listy połączeń słów.\n\nAle kogo obchodzą cele, prawda? Po prostu zrelaksujcie się i cieszcie się samym procesem. Czekajcie też na kontynuację — Word Spud 2, już w roku 3145!",
                         "images": [
                             "game_images/WordSpud/wordspud.mp4",
                             "game_images/WordSpud/wordspud_1.webp",
@@ -236,13 +237,13 @@
                         "audience": false,
                         "stream_friendly": "PLAYABLE",
                         "moderation": "FULL_MODERATION",
-                        "moderation_description": "This game doesn't require moderation.",
+                        "moderation_description": "Ta gra nie wymaga moderacji.",
                         "subtitles": false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "Is it true or false?",
-                        "small_description": "Is it true or false?",
-                        "description": "Do lobsters pee out of their heads? Did Japan vote the instant noodle the top invention of the 20th century? Or are you calling BS?",
+                        "tagline": "Prawda wyjdzie na jaw",
+                        "small_description": "Czy homary naprawdę sikają przez głowę? Czy Japonia uznała makaron instant za najlepszy wynalazek XX wieku? A może to jednak jakieś bzdury?",
+                        "description": "W trakcie gry gracze otrzymują pewien „fakt” i muszą szybko zdecydować, czy jest to prawda, czy kłamstwo. Jeśli się pomylą, trafiają muchę! Ale jeśli odpowiedzą poprawnie… też trafiają muchę, za to otrzymują punkty.\n\nDo gry może dołączyć do 100 graczy, i to w dowolnym momencie – nawet po jej rozpoczęciu.",
                         "images": [
                             "game_images/LieSwatter/lieswatter.mp4",
                             "game_images/LieSwatter/lieswatter_1.webp",
@@ -282,13 +283,13 @@
                         "audience": false,
                         "stream_friendly": "PLAYABLE",
                         "moderation": "NO_MODERATION",
-                        "moderation_description": "Players can submit text.",
+                        "moderation_description": "Gracze mogą wprowadzać tekst.",
                         "subtitles": false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "The hilarious bluffing party game",
-                        "small_description": "The hilarious bluffing party game",
-                        "description": "Fool your friends with your lies, avoid theirs, and find the (usually outrageous) truth. “The mayor of Rabbit Hash, Kentucky is a ____.” Go!",
+                        "tagline": "Przezabawna gra w blefowanie",
+                        "small_description": "Oszukujcie znajomych, unikając ich kłamstw i odkrywajcie (zazwyczaj niewiarygodną) prawdę. „Burmistrz miasta Rabbit Hash w stanie Kentucky to ____”? Zagrajmy!",
+                        "description": "Dziecko? Królik? Kanapka z szynką? Zdecydujcie sami! Najważniejsze, żeby wasza odpowiedź brzmiała choć trochę wiarygodnie, bo właśnie w ten sposób będziecie zdobywać punkty. Będziecie musieli odgadnąć, która z absurdalnych, anonimowych odpowiedzi jest w rzeczywistości prawdziwa.\n\nGracze mogą również rywalizować o upragniony „Puchar Kciuków”, który zapewnia dodatkowe punkty za szczególnie dowcipne odpowiedzi. Tak, w końcu będziecie mogli zaimponować swojej rodzinie zupełnie bezsensownym trofeum!\n\nFanom YOU DON'T KNOW JACK spodoba się fakt, że prowadzącym Fibbage jest słynny (no, prawie) i bardzo odważny Cookie Masterton!",
                         "images": [
                             "game_images/FibbageXL/fibbagexl.mp4",
                             "game_images/FibbageXL/fibbagexl_1.webp",
@@ -318,7 +319,7 @@
         {
             "id": "jpp2",
             "name": "The Jackbox Party Pack 2",
-            "description": "Year of release: 2015",
+            "description": "Rok wydania: 2015",
             "launchers_id": {
                 "steam": "397460",
                 "epic": "Lilac"
@@ -369,16 +370,16 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "The audience tries to guess the truth, without giving points to the players in case of choosing their lies, and gives likes to their favorite lies. If they guess all the truths, at the end of the game they'll receive an additional crazy fact.",
+                        "audience_description": "Widzowie próbują odgadnąć prawdę, unikać przyznawania innym punktów poprzez wybranie ich fałszywych odpowiedzi, oraz rozpopularyzować swoje własne kłamstwo. Jeśli odgadną wszystko poprawnie, to pod koniec gry otrzymają dodatkowy szalony fakt.",
                         "stream_friendly": "PLAYABLE",
                         "moderation": "NO_MODERATION",
-                        "moderation_description": "Players can submit text.",
+                        "moderation_description": "Gracze mogą wprowadzać tekst.",
                         "subtitles": false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "The hilarious bluffing party game",
-                        "small_description": "The hilarious bluffing party game",
-                        "description": "More Fibbage! Lie to your friends, avoid their lies, and spot the truth. “In Arizona, you must obtain a permit to feed ______ to pigs.” Go!",
+                        "tagline": "Przezabawna gra w blefowanie",
+                        "small_description": "Więcej Fibbage! Okłamujcie swoich znajomych, unikajcie ich kłamstw i odkrywajcie prawdę. „W Arizonie trzeba uzyskać zezwolenie, aby karmić świnie ____”. Zaczynamy!",
+                        "description": "Rozwijając formułę pierwszej edycji Fibbage, w grze umieściliśmy ponad 500 zupełnie nowych pytań - dwa razy więcej niż w oryginale! Pojawiła się też nowa funkcja deFIBrylatora, która eliminuje wszystkie opcje z wyjątkiem jednej nieprawdy i jednej prawdy.\n\nNie masz ochoty na imprezę? W Fibbage 2 można grać nawet we dwoje.\n\n",
                         "images": [
                             "game_images/Fibbage2/fibbage2.mp4",
                             "game_images/Fibbage2/fibbage2_1.webp",
@@ -419,16 +420,16 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "The audience can give likes to their favorite responses.",
+                        "audience_description": "Widownia może polubić swoje ulubione odpowiedzi.",
                         "stream_friendly": "PLAYABLE",
                         "moderation": "FULL_MODERATION",
-                        "moderation_description": "Since players can only input sounds provided by the game, this game doesn't require moderation. However, you cannot control the sound combinations that players submit.",
+                        "moderation_description": "Ponieważ gracze mogą wprowadzać wyłącznie dźwięki udostępnione przez grę, ta gra nie wymaga moderacji. Nie można jednak kontrolować kombinacji dźwięków przesyłanych przez graczy.",
                         "subtitles": false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "The game of sound strategy",
-                        "small_description": "The game of sound strategy",
-                        "description": "Cow moo? Huge explosion? Or tiny fart? Which to choose? It's the sound effects game that will leave you up to your ears in laughter!",
+                        "tagline": "Strategiczna gra dźwiękowa",
+                        "small_description": "Krowa robi „muu”? Potężną eksplozję? A może ciche pyknięcie? Co wybierzesz? To gra z efektami dźwiękowymi, która sprawi, że będziesz się śmiać do łez!",
+                        "description": "W Earwax gracze muszą wykazać się kreatywnością, aby stworzyć doświadczenie dźwiękowe, które najlepiej oddaje istotę frazy. Na przykład otrzymujesz zadanie: „Najbardziej szalona reakcja na gol podczas meczu piłki nożnej”. Wtedy wybierasz z listy dwa efekty dźwiękowe, które Twoim zdaniem najlepiej to opisują. Klakson samochodowy i ryk osła? Świetnie. Ryk osła, a potem długie pierdnięcie? O, teraz brzmi przekonująco.\n\nW każdej rundzie wyznaczony sędzia decyduje, która para dźwięków jest najlepsza. Gracz, który stworzył najwięcej zwycięskich kombinacji, zostaje mistrzem!",
                         "images": [
                             "game_images/Earwax/earwax.mp4",
                             "game_images/Earwax/earwax_1.webp",
@@ -468,13 +469,13 @@
                         "audience": false,
                         "stream_friendly": "PLAYABLE",
                         "moderation": "NO_MODERATION",
-                        "moderation_description": "Players can submit drawings.",
+                        "moderation_description": "Gracze rysują swoje hasła.",
                         "subtitles": false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "Time to bid",
-                        "small_description": "Time to bid",
-                        "description": "Outbid your opponents for absurd art – drawn by players themselves – and win this strangely competitive auction game! Don’t be a bidiot!",
+                        "tagline": "Wysokie stawki i niska kultura",
+                        "small_description": "Prześcignijcie swoich rywali w licytowaniu absurdalnych rysunków narysowanych przez Was samych, i wygrajcie w tej niezwykle emocjonującej grze aukcyjnej! Tylko nie dajcie się wykiwać na kasę!",
+                        "description": "Na początku gry wszyscy otrzymują zadanie stworzenia „arcydzieła” na swoim urządzeniu. Następnie rozpoczyna się aukcja. Podczas licytacji na urządzeniu pojawiają się ukryte wskazówki dotyczące tego, które prace (zgodnie z danym zadaniem) są warte najwięcej lub najmniej. Gracze składają odpowiednie oferty i wygrywają, starając się osiągnąć jak największy zysk ze swoich zakupów. Jest tylko jeden problem... obrazy mogą wyglądać BARDZO abstrakcyjnie.\n\nJeśli zbyt szybko wydacie wszystkie pieniądze, zawsze możecie zwrócić się do agencji „Drapieżnych kredytów”, aby uzyskać trochę szybkiej gotówki... ale bądźcie ostrożni. Nie bez powodu w ich nazwie znajduje się słowo „drapieżne”.",
                         "images": [
                             "game_images/Bidiots/bidiots.mp4",
                             "game_images/Bidiots/bidiots_1.webp",
@@ -515,16 +516,16 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "The audience can vote for their favorite answers.",
+                        "audience_description": "Widownia może polubić swoje ulubione odpowiedzi.",
                         "stream_friendly": "PLAYABLE",
                         "moderation": "NO_MODERATION",
-                        "moderation_description": "Players can submit text.",
+                        "moderation_description": "Gracze mogą wprowadzać tekst.",
                         "subtitles": false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "The Say-Anything Party Game",
-                        "small_description": "The Say-Anything Party Game",
-                        "description": "The laugh-a-minute battle of wits and wittiness in its HUGEST form! Come up with “the best name to give an ugly baby” and win!",
+                        "tagline": "Gra w nawijanie bez ładu i składu",
+                        "small_description": "Szalona bitwa na dowcip i humor w swojej NAJWIĘKSZEJ odsłonie! Wymyślcie „najlepsze imię dla brzydkiego niemowlęcia” i wygrajcie!",
+                        "description": "Nie ma zasad ani poprawnych odpowiedzi. Zaufaj swojej intuicji i po prostu napisz co myślisz. Twoja odpowiedź zmierzy się z odpowiedzią innego gracza w pojedynku. Pozostali gracze (oraz publiczność) będą głosować na swoją ulubioną odpowiedź. To wszystko!\n\nTak, dobrze przeczytaliście. Chociaż gra jest przeznaczona dla 3–8 graczy, obsługuje do 10 000 aktywnych uczestników w roli widzów, z których każdy może wpłynąć na wynik głosowania! Za dużo gości na imprezie? Nikt nie zostanie pominięty. Gracie na żywo? Widzowie też mogą dołączyć i wziąć udział w grze.",
                         "images": [
                             "game_images/QuiplashXL/quiplashxl.mp4",
                             "game_images/QuiplashXL/quiplashxl_1.webp",
@@ -563,15 +564,15 @@
                         "family_friendly": "FAMILY_FRIENDLY",
                         "audience": false,
                         "stream_friendly": "MIDLY_PLAYABLE",
-                        "stream_friendly_description": "It's recommended for players to communicate out loud with each other to mention the rules and know which wires to cut.",
+                        "stream_friendly_description": "Graczom zaleca się komunikację między sobą na głos, aby odczytywać zasady i wiedzieć, które przewody należy przeciąć.",
                         "moderation": "FULL_MODERATION",
-                        "moderation_description": "This game doesn't require moderation.",
+                        "moderation_description": "Ta gra nie wymaga moderacji.",
                         "subtitles": false,
                         "type": "COOP",
                         "translation": "ENGLISH",
-                        "tagline": "This job blows",
-                        "small_description": "This job blows",
-                        "description": "Welcome to Bomb Corp. Interns of your kind must help defuse bombs in our office. It’s a weird office full of bombs. Just hit start.",
+                        "tagline": "Zakończ robotę z hukiem!",
+                        "small_description": "Witamy w Bomb Corp. Stażyści na Waszym poziomie mają pomagać w rozbrajaniu bomb w naszym biurze. To dziwne biuro, pełne bomb. Do roboty!",
+                        "description": "W grze Bomb Corp. każdy gracz otrzymuje różne instrukcje na swoim urządzeniu i musi dzielić się informacjami z innymi, aby wspólnie wykonać zadanie w krótkim czasie. Jeśli nie zdążycie - możecie zapomnieć o karierze po studiach. A poza tym... zginiecie.\n\nW Bomb Corp. dostępne są dwa tryby:\n\n• The Job: tryb fabularny, w którym przechodzicie kilka tygodni pracy w Bomb Corp.\n\n• The Grind: dla tych, którzy nie znoszą fabuły i po prostu chcą od razu grać w łamigłówki.\n\nIm dalej dotrzecie na swoim „stażu”, tym dziwniejsze stają się relacje w biurze. Powodzenia!",
                         "images": [
                             "game_images/BombCorp/bombcorp.mp4",
                             "game_images/BombCorp/bombcorp_1.webp",
@@ -603,7 +604,7 @@
         {
             "id": "jpp3",
             "name": "The Jackbox Party Pack 3",
-            "description": "Year of release: 2016",
+            "description": "Data wydania: 2016",
             "launchers_id": {
                 "steam": "434170",
                 "epic": "Orchid"

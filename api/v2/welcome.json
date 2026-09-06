@@ -2,9 +2,9 @@
     "news": [
         {
             "id": "2025-12-19 12:00:00",
-            "title": "Próbujemy tłumaczyć na Polski!",
-            "smallDescription": "Legendarna gra quizowa powraca po polsku!",
-            "content": "# Gra, w której kultura wysoka spotyka się z popkulturą - To **You Don't Know Jack**!\n\nZespół tłumaczy pracuje od 2021 roku nad przywróceniem tego klasycznego quizu. W czwartek, 31 sierpnia 2023 roku nadszedł ten moment: mnóstwo nowych pytań, żartów i absurdów. Bądźcie na bieżąco i śledźcie nas w mediach społecznościowych, aby otrzymywać kolejne aktualizacje!\n\n<https://twitter.com/jackboxde>",
+            "title": "Pracujemy nad polskim tłumaczeniem i lokalizacją gier!",
+            "smallDescription": "Legendarne gry imprezowe wreszcie po polsku!",
+            "content": "# Gry, w których kultura wysoka spotyka się z popkulturą - To **You Don't Know Jack**!\n\nZespół tłumaczy pracuje od 2021 roku nad przywróceniem tego klasycznego quizu. W czwartek, 31 sierpnia 2023 roku nadszedł ten moment: mnóstwo nowych pytań, żartów i absurdów. Bądźcie na bieżąco i śledźcie nas w repozytorium GitHub, aby otrzymywać kolejne aktualizacje!\n\n<https://github.com/dejpiniondz/JackboxUtility-pl>",
             "image": "news_images/ydkj.jpg"
         },
         {
@@ -18,7 +18,7 @@
             "id": "2023-02-18 12:00:00",
             "title": "Dołącz do społeczności!",
             "smallDescription": "Połącz się z innymi członkami społeczności i uzyskaj pomoc we wszystkich pytaniach dotyczących Jackbox",
-            "content": "# Potrzebujesz pomocy? Szukasz współgraczy?\n\nDołącz do naszego serwera Discord, aby zadawać pytania i łączyć się z innymi członkami społeczności!\n\n<https://discord.gg/vGcu9HWde4>",
+            "content": "# Potrzebujesz pomocy? Szukasz współgraczy?\n\nDołącz do naszego międzynarodowego serwera Discord, aby zadawać pytania i łączyć się z innymi członkami społeczności!\n\n<https://discord.gg/PvRSFNH64>",
             "image": "news_images/discord.jpg"
         }
     ]

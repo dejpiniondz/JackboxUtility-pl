@@ -2,14 +2,14 @@
     "id": "jackbox-pl",
     "name": "Jackbox Utility PL",
     "description": "Polski serwer społecznościowy dla serii gier Jackbox!",
-    "image": "https://raw.githubusercontent.com/Frytkownica/JackboxUtility-Server-pl/main/assets/news_images/logo.png",
+    "image": "https://raw.githubusercontent.com/dejpiniondz/JackboxUtility-pl/main/assets/news_images/logo.png",
     "urls": [
         {
             "versions": [
                 "1.0.0"
             ],
-            "api": "https://raw.githubusercontent.com/dejpiniondz/JackboxUtility-Server-pl/main/api/v2/",
-            "assets": "https://raw.githubusercontent.com/dejpiniondz/JackboxUtility-Server-pl/main/assets"
+            "api": "https://raw.githubusercontent.com/dejpiniondz/JackboxUtility-pl/main/api/v2/",
+            "assets": "https://raw.githubusercontent.com/dejpiniondz/JackboxUtility-pl/main/assets"
         }
     ],
     "controller": "jackbox.tv",
